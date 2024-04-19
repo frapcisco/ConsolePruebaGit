@@ -17,6 +17,8 @@ namespace ConsolePruebaGit
         {
             //unoooo
 
+            int a = 1;
+
         }
 
         public void Dos()
