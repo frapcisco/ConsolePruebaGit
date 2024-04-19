@@ -6,3 +6,5 @@ Console.WriteLine("Hello, World!");
 Negocio negocio= new Negocio();
 
 Console.WriteLine(negocio.ObtenerFecha().Date.Year.ToString());
+
+Console.Write("Fin");

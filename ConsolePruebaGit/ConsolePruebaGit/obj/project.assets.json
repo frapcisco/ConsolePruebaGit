@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\PruebaGIT\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit.csproj",
       "projectName": "ConsolePruebaGit",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit.csproj",
+      "projectPath": "C:\\Users\\Usuario\\PruebaGIT\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\ConsolePruebaGit\\ConsolePruebaGit\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\PruebaGIT\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
