@@ -27,6 +27,11 @@ namespace ConsolePruebaGit
         {
 
         }
+        public void Cuatro()
+        {
+
+        }
+
 
     }
 }
