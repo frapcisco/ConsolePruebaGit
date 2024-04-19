@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\PruebaGIT\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit.csproj": {}
+    "C:\\Users\\Usuario\\PruebaGIT\\ConsolePruebaGit - copia\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\PruebaGIT\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit.csproj": {
+    "C:\\Users\\Usuario\\PruebaGIT\\ConsolePruebaGit - copia\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\PruebaGIT\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\PruebaGIT\\ConsolePruebaGit - copia\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit.csproj",
         "projectName": "ConsolePruebaGit",
-        "projectPath": "C:\\Users\\Usuario\\PruebaGIT\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit.csproj",
+        "projectPath": "C:\\Users\\Usuario\\PruebaGIT\\ConsolePruebaGit - copia\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\PruebaGIT\\ConsolePruebaGit\\ConsolePruebaGit\\ConsolePruebaGit\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\PruebaGIT\\ConsolePruebaGit - copia\\ConsolePruebaGit\\ConsolePruebaGit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
