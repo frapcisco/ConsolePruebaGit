@@ -31,6 +31,10 @@ namespace ConsolePruebaGit
         {
 
         }
+        public void cinco()
+        {
+            int t = 123;
+        }
 
 
     }
