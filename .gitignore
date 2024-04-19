@@ -1,1 +1,3 @@
 *.suo
+*.pdb
+ConsolePruebaGit/ConsolePruebaGit/bin/Debug/net6.0/*.pdb

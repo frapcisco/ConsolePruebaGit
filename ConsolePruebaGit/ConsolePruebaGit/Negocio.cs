@@ -26,10 +26,11 @@ namespace ConsolePruebaGit
         public void Tres()
         {
 
+
         }
         public void Cuatro()
         {
-
+            //funcion pal cuatroooo
         }
 
 
