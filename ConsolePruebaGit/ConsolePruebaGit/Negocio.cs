@@ -13,6 +13,11 @@ namespace ConsolePruebaGit
             return DateTime.Now;
         }
 
+        public void Uno()
+        {
+            
+        }
+
 
     }
 }
