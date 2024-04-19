@@ -23,6 +23,10 @@ namespace ConsolePruebaGit
             
         }
 
+        public void Tres()
+        {
+
+        }
         public void Cuatro()
         {
 
