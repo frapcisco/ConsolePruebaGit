@@ -38,6 +38,10 @@ namespace ConsolePruebaGit
         {
             //funcion pal cuatroooo
         }
+        public void cinco()
+        {
+            int t = 123;
+        }
 
 
     }
