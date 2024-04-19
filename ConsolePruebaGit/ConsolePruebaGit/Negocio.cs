@@ -15,21 +15,27 @@ namespace ConsolePruebaGit
 
         public void Uno()
         {
-            
+            //unoooo
+
+            int a = 1;
+
         }
 
         public void Dos()
         {
+
+            //funciones dos
             
         }
 
         public void Tres()
         {
 
+
         }
         public void Cuatro()
         {
-
+            //funcion pal cuatroooo
         }
         public void cinco()
         {
