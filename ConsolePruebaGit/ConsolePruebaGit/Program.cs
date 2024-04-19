@@ -8,4 +8,5 @@ Negocio negocio= new Negocio();
 Console.WriteLine(negocio.ObtenerFecha().Date.Year.ToString());
 
 Console.Write("Fin");
+Console.Write("Principal");
 Console.Write("Secundario");
